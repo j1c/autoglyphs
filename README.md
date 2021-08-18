@@ -8,3 +8,12 @@ Some of my favorite examples are below.
 
 ## Examples
 
+### Autoglyph #2974649095
+<img src="./examples/autoglyph_2974649095.png" width="700" />
+
+
+### Autoglyph #950298847
+<img src="./examples/autoglyph_950298847.png" width="700" />
+
+### Autoglyph #3499369648
+<img src="./examples/autoglyph_3499369648.png" width="700" />
